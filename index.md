@@ -10,4 +10,3 @@ email: __madeUpName@madeUpDomain.edu__
   * Syntax is [ square brackets for text ] (parentheses for file or location it points to)
 
 
----
